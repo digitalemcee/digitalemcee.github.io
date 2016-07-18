@@ -1,5 +1,6 @@
 ---
 title: Maisha's First Pages.IO Site
+layout:default
 ---
 ## Welcome to Mai Site
 This is a test. This is only a test.
