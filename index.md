@@ -10,3 +10,6 @@ Have a wonderful day.
 
 <H2> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. </H2>
 Helen Keller
+
+Here is a shortcut to Markdown
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
